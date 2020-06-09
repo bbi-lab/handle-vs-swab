@@ -1,5 +1,5 @@
 # Comparable specimen collection from both ends of at-home mid-turbinate swabs
-Melissa Truong, BS1*, Brian Pfau, BS1*, Evan McDermot, BS1*, Peter D. Han, MS1*, Elisabeth Brandstetter, MPH2, Matthew Richardson, BA2, Mark J. Rieder, PhD1,2, Helen Y. Chu, MD, MPH1,2, Janet A. Englund, MD1,3, Deborah A. Nickerson, PhD1,2, Jay Shendure, MD, PhD1,2,4 Christina M. Lockwood, PhD1,2, Eric Q. Konnick, MD1,2, and Lea M. Starita, PhD1,2, on behalf of Seattle Flu Study investigators
+Melissa Truong, BS<sup>1*</sup>, Brian Pfau, BS<sup>1*</sup>, Evan McDermot, BS<sup>1*</sup>, Peter D. Han, MS<sup>1*</sup>, Elisabeth Brandstetter, MPH<sup>2</sup>, Matthew Richardson, BA<sup>2</sup>, Mark J. Rieder, PhD<sup>1</sup>,2, Helen Y. Chu, MD, MPH<sup>1,2</sup>, Janet A. Englund, MD<sup>1,3</sup>, Deborah A. Nickerson, PhD<sup>1,2</sup>, Jay Shendure, MD, PhD<sup>1,2,4</sup>, Christina M. Lockwood, PhD<sup>1,2</sup>, Eric Q. Konnick, MD<sup>1,2</sup>, and Lea M. Starita, PhD<sup>1,2</sup>, on behalf of Seattle Flu Study investigators
 
 # Abstract: 
 **Importance**:  Unsupervised upper respiratory specimen collection is a key factor in the ability to massively scale up SARS-CoV-2 testing. But there is concern that unsupervised specimen collection may produce inferior samples.
