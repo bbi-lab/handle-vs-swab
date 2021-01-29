@@ -10,15 +10,6 @@ Melissa Truong, BS<sup>1*</sup>, Brian Pfau, BS<sup>1*</sup>, Evan McDermot, BS<
 # Abstract: 
 Unsupervised upper respiratory specimen collection is a key factor in the ability to massively scale SARS-CoV-2 testing. But there is concern that unsupervised specimen collection may produce inferior samples. Across two studies that included unsupervised at-home mid-turbinate specimen collection, ∼1% of participants used the wrong end of the swab. We found that molecular detection of respiratory pathogens and a human biomarker were comparable between specimens collected from the handle of the swab and those collected correctly. Older participants were more likely to use the swab backwards. Our results suggest that errors made during home-collection of nasal specimens do not preclude molecular detection of pathogens and specialized swabs may be an unnecessary luxury during a pandemic.
 
-**Importance**:  Unsupervised upper respiratory specimen collection is a key factor in the ability to massively scale up SARS-CoV-2 testing. But there is concern that unsupervised specimen collection may produce inferior samples.
-
-**Objective**:  Across two studies that instructed participants to collect a mid-turbinate nasal specimens at home that some used the wrong end of the swab. We sought to understand if those incorrectly collected specimens were of sufficient quality for pathogen detection and which demographic covariates were associated with deviation from the instructions.
-
-**Design:**  Individuals with and without symptoms of an acute respiratory infection from across the Seattle metropolitan area could participate in the Seattle Flu Study’s ‘Swab and Send’ program and greater Seattle Coronavirus Assessment Network (SCAN) through on-line registration. The 12,175 at-home collected specimens from participants returned to the laboratory were inspected for adherence to the test kit instructions and screened for 24 respiratory pathogens by RT-PCR.
-
-**Results:** We found that 107 of 12,175 (0.9%) specimens were returned to the lab with the swab handle in the transport media instead of the swab. The human marker RNase P and respiratory pathogens were detected at indistinguishable rates from the erroneously collected specimens. Older participants were more likely to deviate from instructions and use the swab handle.
-Conclusions and Relevance: Our data show that molecular testing for respiratory pathogens is robust to mistakes made by individuals collecting mid-turbinate specimens at home.
-
 # Organization:
 ## The repository holds:
 1) supplementary_file_1: the dataset
