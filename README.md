@@ -20,36 +20,35 @@ Unsupervised upper respiratory specimen collection is a key factor in the abilit
 Conclusions and Relevance: Our data show that molecular testing for respiratory pathogens is robust to mistakes made by individuals collecting mid-turbinate specimens at home.
 
 # Organization:
-The repository holds:
+## The repository holds:
 1) supplementary_file_1: the dataset
 2) supplementary_file_2: R Markdown
-3) supplementary_file_3: live R scipt 
+3) supplementary_file_3: live R scipt  
 
-required to replicate the data analysis and data visualization generated in *Comparable specimen collection from both ends of at-home mid-turbinate swabs*. 
-
-There are four data analytics of interest are: 
+## There are four data analytics of interest are: 
 1. Failure Rates 
 2. Human RNAse P CRT Values 
 3. RedCap Participants' Information (confidence and discomfort on nasal collection, age, sex, income)
 4. Pathogen Detection Rates
 
-Each of these data analytics are included in the dataset itself and an R Markdown pdf file that can be used as a guide to generate the data analysis and data visualization via R or R Studio.
+Each of these data analytics are included in the dataset itself, in an R Markdown pdf file that can be used as a guide to generate the data analysis and data visualization via R or R Studio, and the live R script.
 
-* `datasets`: Contains the collection of datasets used for any of the four data analytics 
 * Figure 1.B and 1.C are generated from the Human RNAse P CRT Values 
 * Figure 2.A, 2.B, and 2.C are generated from Redcap Participants' Information
 * Table 1 is generated from Pathogen Detection Rates
 
 
-## Citation:
+# Citation:
 <link to published paper>
 
-## Acknowledgemennts:
-Acknowledgements: We would like to thank the Seattle Flu Study and SCAN participants for their invaluable contributions to this research, the entire Seattle Flu Study team for making this study possible and Katrina Van Raay for R code. The Seattle Flu Study and SCAN are administered by the Brotman Baty Institute for Precision Medicine and funded by Gates Ventures, the private office of Bill Gates. The funder was not involved in the design of the study and does not have any ownership over the management and conduct of the study, the data, or the rights to publish. LMS and JS are funded by 1RM1HG010461-01 from the NHGRI and JS is an Investigator of the Howard Hughes Medical Institute. REDCap at ITHS is supported by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award Number UL1 TR002319.
+# Acknowledgemennts:
+We would like to thank the Seattle Flu Study and SCAN participants for their invaluable contributions to this research, the entire Seattle Flu Study team for making this study possible and Katrina Van Raay for R code. The Seattle Flu Study and SCAN are administered by the Brotman Baty Institute for Precision Medicine and funded by Gates Ventures, the private office of Bill Gates. The funder was not involved in the design of the study and does not have any ownership over the management and conduct of the study, the data, or the rights to publish. LMS and JS are funded by 1RM1HG010461-01 from the NHGRI and JS is an Investigator of the Howard Hughes Medical Institute. REDCap at ITHS is supported by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award Number UL1 TR002319.
 
-Seattle Flu Study Investigators Principal Investigators: Helen Y. Chu<sup>1,7</sup>, Michael Boeckh<sup>1,2,7</sup>, Jeffrey S. Duchin<sup>10</sup>, Janet A. Englund<sup>3,7</sup>, Michael Famulare<sup>4</sup>, Barry R. Lutz<sup>5,7</sup>, Deborah A. Nickerson<sup>6,7</sup>, Mark J. Rieder<sup>7</sup>, Lea M. Starita<sup>6,7,</sup> Matthew Thompson<sup>9</sup>, Jay Shendure<sup>6,7,8</sup>, and Trevor Bedford<sup>2,6,7</sup>
+## Seattle Flu Study Investigators Principal Investigators: 
+Helen Y. Chu<sup>1,7</sup>, Michael Boeckh<sup>1,2,7</sup>, Jeffrey S. Duchin<sup>10</sup>, Janet A. Englund<sup>3,7</sup>, Michael Famulare<sup>4</sup>, Barry R. Lutz<sup>5,7</sup>, Deborah A. Nickerson<sup>6,7</sup>, Mark J. Rieder<sup>7</sup>, Lea M. Starita<sup>6,7,</sup> Matthew Thompson<sup>9</sup>, Jay Shendure<sup>6,7,8</sup>, and Trevor Bedford<sup>2,6,7</sup>
 
-Affiliations:
+## Affiliations:
+
 1 Department of Medicine, University of Washington
 
 2 Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
@@ -70,4 +69,4 @@ Affiliations:
 
 10 Public Health – Seattle King County
 
-Last Updated: January 29 2021
+## Last Updated: January 29 2021
