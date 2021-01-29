@@ -1,5 +1,5 @@
 # Comparable specimen collection from both ends of at-home mid-turbinate swabs
-Melissa Truong, BS<sup>1*</sup>, Brian Pfau, BS<sup>1*</sup>, Evan McDermot, BS<sup>1*</sup>, Peter D. Han, MS<sup>1*</sup>, Elisabeth Brandstetter, MPH<sup>2</sup>, Matthew Richardson, BA<sup>2</sup>, Mark J. Rieder, PhD<sup>1</sup>,2, Helen Y. Chu, MD, MPH<sup>1,2</sup>, Janet A. Englund, MD<sup>1,3</sup>, Deborah A. Nickerson, PhD<sup>1,2</sup>, Jay Shendure, MD, PhD<sup>1,2,4</sup>, Christina M. Lockwood, PhD<sup>1,2</sup>, Eric Q. Konnick, MD<sup>1,2</sup>, and Lea M. Starita, PhD<sup>1,2</sup>, on behalf of Seattle Flu Study investigators
+Melissa Truong, BS<sup>1*</sup>, Brian Pfau, BS<sup>1*</sup>, Evan McDermot, BS<sup>1*</sup>, Peter D. Han, MS<sup>1*</sup>, Elisabeth Brandstetter, MPH<sup>2</sup>, Matthew Richardson, BA<sup>2</sup>, Mark J. Rieder, PhD<sup>1,2</sup>, Helen Y. Chu, MD, MPH<sup>1,2</sup>, Janet A. Englund, MD<sup>1,3</sup>, Deborah A. Nickerson, PhD<sup>1,2</sup>, Jay Shendure, MD, PhD<sup>1,2,4</sup>, Christina M. Lockwood, PhD<sup>1,2</sup>, Eric Q. Konnick, MD<sup>1,2</sup>, and Lea M. Starita, PhD<sup>1,2</sup>, on behalf of Seattle Flu Study investigators
 
 1. Brotman Baty Institute For Precision Medicine, Seattle WA, USA
 2. University of Washington, Seattle WA, USA
@@ -24,6 +24,7 @@ The repository holds:
 1) supplementary_file_1: the dataset
 2) supplementary_file_2: R Markdown
 3) supplementary_file_3: live R scipt 
+
 required to replicate the data analysis and data visualization generated in *Comparable specimen collection from both ends of at-home mid-turbinate swabs*. 
 
 There are four data analytics of interest are: 
@@ -46,18 +47,27 @@ Each of these data analytics are included in the dataset itself and an R Markdow
 ## Acknowledgemennts:
 Acknowledgements: We would like to thank the Seattle Flu Study and SCAN participants for their invaluable contributions to this research, the entire Seattle Flu Study team for making this study possible and Katrina Van Raay for R code. The Seattle Flu Study and SCAN are administered by the Brotman Baty Institute for Precision Medicine and funded by Gates Ventures, the private office of Bill Gates. The funder was not involved in the design of the study and does not have any ownership over the management and conduct of the study, the data, or the rights to publish. LMS and JS are funded by 1RM1HG010461-01 from the NHGRI and JS is an Investigator of the Howard Hughes Medical Institute. REDCap at ITHS is supported by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award Number UL1 TR002319.
 
-Seattle Flu Study Investigators Principal Investigators: Helen Y. Chu<sup>1,7<sup>, Michael Boeckh<sup>1,2,7<sup>, Jeffrey S. Duchin<sup>10<sup>, Janet A. Englund<sup>3,7<sup>, Michael Famulare<sup>4<sup>, Barry R. Lutz<sup>5,7<sup>, Deborah A. Nickerson<sup>6,7<sup>, Mark J. Rieder<sup>7<sup>, Lea M. Starita<sup>6,7,<sup> Matthew Thompson<sup>9<sup>, Jay Shendure<sup>6,7,8<sup>, and Trevor Bedford<sup>2,6,7<sup>
+Seattle Flu Study Investigators Principal Investigators: Helen Y. Chu<sup>1,7</sup>, Michael Boeckh<sup>1,2,7</sup>, Jeffrey S. Duchin<sup>10</sup>, Janet A. Englund<sup>3,7</sup>, Michael Famulare<sup>4</sup>, Barry R. Lutz<sup>5,7</sup>, Deborah A. Nickerson<sup>6,7</sup>, Mark J. Rieder<sup>7</sup>, Lea M. Starita<sup>6,7,</sup> Matthew Thompson<sup>9</sup>, Jay Shendure<sup>6,7,8</sup>, and Trevor Bedford<sup>2,6,7</sup>
 
-Afflications:
+Affiliations:
 1 Department of Medicine, University of Washington
+
 2 Vaccine and Infectious Disease Division, Fred Hutchinson Cancer Research Center
+
 3 Seattle Children’s Research Institute
+
 4 Institute for Disease Modeling
+
 5 Department of Bioengineering, University of Washington
+
 6 Department of Genome Sciences, University of Washington
+
 7 Brotman Baty Institute For Precision Medicine
+
 8 Howard Hughes Medical Institute
+
 9 Department of Family Medicine, University of Washington
+
 10 Public Health – Seattle King County
 
 Last Updated: January 29 2021
