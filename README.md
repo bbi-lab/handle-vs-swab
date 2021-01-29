@@ -30,7 +30,7 @@ Each of these data analytics are included in the dataset itself, in an R Markdow
 
 
 # Citation:
-<link to published paper>
+Pre-Print on medRxiv: <https://www.medrxiv.org/content/10.1101/2020.12.05.20244632v1>
 
 # Acknowledgemennts:
 We would like to thank the Seattle Flu Study and SCAN participants for their invaluable contributions to this research, the entire Seattle Flu Study team for making this study possible and Katrina Van Raay for R code. The Seattle Flu Study and SCAN are administered by the Brotman Baty Institute for Precision Medicine and funded by Gates Ventures, the private office of Bill Gates. The funder was not involved in the design of the study and does not have any ownership over the management and conduct of the study, the data, or the rights to publish. LMS and JS are funded by 1RM1HG010461-01 from the NHGRI and JS is an Investigator of the Howard Hughes Medical Institute. REDCap at ITHS is supported by the National Center for Advancing Translational Sciences of the National Institutes of Health under Award Number UL1 TR002319.
